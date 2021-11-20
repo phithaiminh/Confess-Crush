@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người, Thái Minh đẹp trai nhất đúng không',
     btnReply: 'Gửi Thái Minh',
-    reply: 'Cảm ơn đã khen',
+    reply: 'Ừ đúng vậy, mình rất yêu bạn, idol Thái Minh',
     mess: 'Mình biết mà 🥰. Ai cũng nói mình đẹp trai hết 😘😘',
     messDesc: 'Tặng mình quà nha.',
     btnAccept: 'Okiiiii lun <3',
